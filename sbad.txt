@@ -108,7 +108,7 @@
       "random_chat_is_on": true,
       "payment_gateway": {
         "in_app_purchase": true,
-        "razor_pay": false,
+        "razor_pay": true,
         "stripe": false
       },
       "price": {
