@@ -107,7 +107,7 @@
       "native_ads_count_in_list": 96,
       "random_chat_is_on": true,
       "payment_gateway": {
-        "in_app_purchase": true,
+        "in_app_purchase": false,
         "razor_pay": true,
         "stripe": false
       },
